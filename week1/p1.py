@@ -1,5 +1,5 @@
 # 최대값 구하기
-# https://school.programmers.co.kr/learn/courses/30/lessons/120812?language=python3
+# https://www.acmicpc.net/source/87415442
 
 # input
 numbers = [int(input()) for x in range(9)]
